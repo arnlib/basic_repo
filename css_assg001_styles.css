@@ -33,7 +33,7 @@
 .subcontents{
  height: 200px;
  width: 210px;
- background-color: yellow;
+ background-color: gray;
  display: inline-block;
  margin-right: 10px;
 }
